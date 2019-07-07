@@ -1,0 +1,111 @@
+{
+   "checksum": "709588a903f77bdd84f881a53e62a2a8",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13206881528205560",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13206961584777527"
+            },
+            "name": "Lynda.com | King County Library System",
+            "type": "url",
+            "url": "https://kcls.org/resource/lynda-com/"
+         }, {
+            "date_added": "13206881538773774",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13206968116007604"
+            },
+            "name": "My-First-Webpage/Document_files at master · Minra-cyber/My-First-Webpage",
+            "type": "url",
+            "url": "https://github.com/Minra-cyber/My-First-Webpage/tree/master/Document_files"
+         }, {
+            "date_added": "13206881543565715",
+            "id": "7",
+            "meta_info": {
+               "last_visited_desktop": "13206881650627782"
+            },
+            "name": "LinkedIn",
+            "type": "url",
+            "url": "https://www.linkedin.com/feed/"
+         }, {
+            "date_added": "13206881550741529",
+            "id": "8",
+            "meta_info": {
+               "last_visited_desktop": "13206968592788284"
+            },
+            "name": "Inbox (3) - samirarose20000@gmail.com - Gmail",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"
+         }, {
+            "date_added": "13206881727096456",
+            "id": "9",
+            "meta_info": {
+               "last_visited_desktop": "13206882113756190"
+            },
+            "name": "ms-community | Moringa School Slack",
+            "type": "url",
+            "url": "https://moringaschool.slack.com/messages/C077KNK28/"
+         }, {
+            "date_added": "13206881815633865",
+            "id": "10",
+            "meta_info": {
+               "last_visited_desktop": "13206969524763816"
+            },
+            "name": "Prep Full-Time",
+            "type": "url",
+            "url": "https://moringaschool.instructure.com/courses/14?invitation=0mYIOJKjhBCmpFwZlim3lYcawQ1XUQKmSwMWv1hL"
+         }, {
+            "date_added": "13206912403877999",
+            "id": "12",
+            "meta_info": {
+               "last_visited_desktop": "13206912421154521"
+            },
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13206961379375562",
+            "id": "14",
+            "meta_info": {
+               "last_visited_desktop": "13206969362227196"
+            },
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/?gl=KE&tab=r1"
+         }, {
+            "date_added": "13206961595260243",
+            "id": "15",
+            "meta_info": {
+               "last_visited_desktop": "13206969442721845"
+            },
+            "name": "Prep Full-Time",
+            "type": "url",
+            "url": "https://moringaschool.instructure.com/courses/14"
+         } ],
+         "date_added": "13206788740303521",
+         "date_modified": "13206961595260243",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13206788740303528",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13206788740303532",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,36 @@
+[2019-07-07 10:04:15.096] [sharedprocess] [info] main {"machineId":"6b693262dab7b8a40de14b402641116d6c1bb79b2349c931abcfce8b788268f6"}
+[2019-07-07 10:04:15.109] [sharedprocess] [info] Scanned user extensions: 0
+[2019-07-07 10:04:15.124] [sharedprocess] [info] Scanned user extensions: 0
+[2019-07-07 10:04:15.131] [sharedprocess] [info] Scanned user extensions: 0
+[2019-07-07 10:04:15.214] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-07 10:04:15.220] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-07 10:04:15.223] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-07 10:04:15.250] [sharedprocess] [info] Scanned user extensions: 0
+[2019-07-07 10:04:15.277] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-07 10:04:15.349] [sharedprocess] [info] Scanned user extensions: 0
+[2019-07-07 10:04:55.058] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-07-07 10:07:24.828] [sharedprocess] [info] Scanned user extensions: 0
+[2019-07-07 10:07:24.834] [sharedprocess] [info] Scanned user extensions: 0
+[2019-07-07 10:07:24.835] [sharedprocess] [info] Scanned user extensions: 0
+[2019-07-07 10:07:24.845] [sharedprocess] [info] Scanned user extensions: 0
+[2019-07-07 10:07:25.010] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-07 10:07:25.014] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-07 10:07:25.018] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-07 10:07:25.040] [sharedprocess] [info] Scanned user extensions: 0
+[2019-07-07 10:07:25.078] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-07 10:07:25.085] [sharedprocess] [info] Scanned user extensions: 0
+[2019-07-07 10:07:25.088] [sharedprocess] [info] Scanned user extensions: 0
+[2019-07-07 10:07:25.141] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-07 10:07:25.144] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-07 10:07:50.345] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2019-07-07 10:07:50.348] [sharedprocess] [info] Scanned user extensions: 0
+[2019-07-07 10:08:25.787] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /tmp/fa1fcdcf-1aac-490c-ab04-27f75950eecd
+[2019-07-07 10:08:28.633] [sharedprocess] [info] Extracted extension to /home/samira/.vscode/extensions/.ritwickdey.liveserver-5.6.1: ritwickdey.liveserver
+[2019-07-07 10:08:28.633] [sharedprocess] [info] Renamed to /home/samira/.vscode/extensions/ritwickdey.liveserver-5.6.1
+[2019-07-07 10:08:28.634] [sharedprocess] [info] Installation completed. ritwickdey.liveserver
+[2019-07-07 10:08:28.724] [sharedprocess] [info] Extensions installed successfully: ritwickdey.liveserver
+[2019-07-07 10:09:15.360] [sharedprocess] [info] Scanned user extensions: 1
+[2019-07-07 10:14:15.374] [sharedprocess] [info] Scanned user extensions: 1
+[2019-07-07 10:19:15.385] [sharedprocess] [info] Scanned user extensions: 1
+[2019-07-07 10:24:15.397] [sharedprocess] [info] Scanned user extensions: 1
+[2019-07-07 10:29:15.412] [sharedprocess] [info] Scanned user extensions: 1

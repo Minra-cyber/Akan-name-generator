@@ -1,0 +1,14 @@
+[Aisleriot Config]
+ShowToolbar=true
+ShowStatusbar=true
+Sound=true
+Animations=true
+Recent=eliminator;poker;klondike;
+Variation=eliminator.scm
+
+[klondike.scm]
+Statistic=0;1;0;0;
+
+[eliminator.scm]
+Options=4
+Statistic=0;1;0;0;

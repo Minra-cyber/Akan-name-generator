@@ -1,0 +1,13 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/samira
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git show :Desktop/Pet-Webpage/CSS
+> git ls-files --stage -- Desktop/Pet-Webpage/
+> git show :Desktop/Pet-Webpage/Html
+> git ls-files --stage -- Desktop/Pet-Webpage/
+> git show :Desktop/Pet-Webpage/Html
+> git ls-files --stage -- Desktop/Pet-Webpage/

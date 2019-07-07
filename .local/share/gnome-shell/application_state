@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-control-center.desktop" open-window-count="0" score="56.000457763671875" last-seen="1562407628"/>
+    <application id="atom_atom.desktop" open-window-count="1" score="325" last-seen="1562497307"/>
+    <application id="firefox.desktop" open-window-count="0" score="12537.947547912598" last-seen="1562231115"/>
+    <application id="gedit.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="243.75225830078125" last-seen="1562496314"/>
+    <application id="brackets_brackets.desktop" open-window-count="0" score="65.5" last-seen="1562303974"/>
+    <application id="software-properties-gtk.desktop" open-window-count="0" score="0.5" last-seen="1562077055"/>
+    <application id="eog.desktop" open-window-count="0" score="0.5" last-seen="1562407619"/>
+    <application id="update-manager.desktop" open-window-count="0" score="1.25" last-seen="1562058738"/>
+    <application id="code.desktop" open-window-count="0" score="949.5" last-seen="1562484825"/>
+    <application id="org.gnome.font-viewer.desktop" open-window-count="0" score="13" last-seen="1562494093"/>
+    <application id="rhythmbox.desktop" open-window-count="0" score="0" last-seen="1562054498"/>
+    <application id="google-chrome.desktop" open-window-count="1" score="16014.75" last-seen="1562497420"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="13.25006103515625" last-seen="1562485183"/>
+    <application id="gnome-mines.desktop" open-window-count="0" score="2.5003585815429688" last-seen="1562141172"/>
+    <application id="libreoffice-calc.desktop" open-window-count="0" score="1.1875" last-seen="1562054892"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="1751.9453125" last-seen="1562497531"/>
+    <application id="org.gnome.bijiben.desktop" open-window-count="0" score="1" last-seen="1562441501"/>
+    <application id="org.gnome.Shell.PortalHelper.desktop" open-window-count="0" score="2.0002899169921875" last-seen="1562497418"/>
+    <application id="org.gnome.Calendar.desktop" open-window-count="0" score="0.00014495849609375" last-seen="1562055227"/>
+    <application id="sol.desktop" open-window-count="0" score="0.00017547607421875" last-seen="1562054786"/>
+    <application id="thunderbird.desktop" open-window-count="0" score="0" last-seen="1562222937"/>
+    <application id="org.gnome.Software.desktop" open-window-count="0" score="21.0625" last-seen="1562157906"/>
+  </context>
+</application-state>
